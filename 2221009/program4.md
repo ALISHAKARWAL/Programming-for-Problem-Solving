@@ -1,4 +1,5 @@
-#include<stdio.h>
+#program: write a program to check operators
+#include<stdio,h>
 
 int main0
 
