@@ -1,4 +1,5 @@
 #Program to check conditional operator
+
 #include<stdio.h>
 
 {
@@ -16,3 +17,11 @@ printf("%d",a)
 return0;
 
 }
+
+Output:(if age is 56)
+
+enter your age:(56)
+
+56
+
+you can vote
