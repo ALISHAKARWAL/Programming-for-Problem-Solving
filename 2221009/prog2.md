@@ -4,15 +4,15 @@ int main()
 
 {
 
-int x,y,z;
+int number1,number2,sum;
 
-x=10;
+number1=18;
 
-y=20;
+number2=10;
 
-z=x+y;
+sum=number1+number2;
 
-printf("%d",z);
+printf("%d",sum);
 
 return 0;
 
