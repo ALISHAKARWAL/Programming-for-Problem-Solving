@@ -14,7 +14,8 @@ printf("\n%d",i);
 return 0;
 
 }
-##output:
+## output:
+
 0
 1
 2
